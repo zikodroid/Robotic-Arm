@@ -20,7 +20,7 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 
 ## 🎥 Demonstration & Assembly Video
 Check out the full 6-minute assembly and live demonstration video on YouTube:
-[![Watch the Assembly Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/hqdefault.jpg)](https://youtu.be/WgQ9TpypU44)
+* **[Watch the full 6-minute Assembly & Live Demonstration Video on YouTube](https://youtu.be/WgQ9TpypU44)**
 ---
 ## 💻 Source Code & Library Dependency
 * **[Operating Code](https://github.com/zikodroid/controlStepperWithXbox.git):** Contains the core C++ operational code for the ESP32 controlling the rotary base.
