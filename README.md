@@ -16,7 +16,7 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="padding: 10px; border: none;">
-      <img src="https://zikodroid.github.io/Robotic-Arm/Media/Base_Getriebe_2" alt="CAD Render Design" width="400">
+      <img src="https://zikodroid.github.io/Robotic-Arm/Media/Base_Getriebe_2.png" alt="CAD Render Design" width="400">
       <br>
       <em>Figure 1: Detailed CAD Design</em>
     </td>
