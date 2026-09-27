@@ -13,10 +13,9 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 
 ---
 
-![CAD Render Design](https://raw.githubusercontent.com/zikodroid/Robotic-Arm/main/Models/Base_Getriebe_2.jpg)
+<img src="https://zikodroid.github.io/Robotic-Arm/Models/Base_Getriebe_2.png" alt="CAD Render Design" width="600">
 
-![Real Photo](https://raw.githubusercontent.com/zikodroid/Robotic-Arm/main/Media/Base_Getriebe_2.jpg)
-
+<img src="https://zikodroid.github.io/Robotic-Arm/Media/Screenshot 2026-09-27 151355.png" alt="Real Photo" width="600">
 ---
 
 ## 🎥 Assembly & Test Videos
