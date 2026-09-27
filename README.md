@@ -29,7 +29,7 @@ An ambitious Mechanical Engineer with a strong passion for Robotics & transformi
       <em>Figure 1: CAD Design</em>
     </td>
     <td align="center" style="padding: 10px; border: none;">
-      <img src="https://zikodroid.github.io/Robotic-Arm/Media/Real_Photo.png" alt="Real Hardware" width="400">
+      <img src="https://zikodroid.github.io/Robotic-Arm/Media/Screenshot 2026-09-27 151355.png" alt="Real Hardware" width="400">
       <br>
       <em>Figure 2: Assembled Prototype</em>
     </td>
