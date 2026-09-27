@@ -13,8 +13,9 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 
 ---
 
-![CAD Render Design](https://github.com/zikodroid/Robotic-Arm/blob/main/Media/Base_Getriebe_2%20-%20Kopie.png)
-![Real Photo](https://github.com/zikodroid/Robotic-Arm/blob/main/Media/Base_Getriebe_1.png)
+![CAD Render Design](https://raw.githubusercontent.com/zikodroid/Robotic-Arm/main/Models/Base_Getriebe_2.jpg)
+
+![Real Photo](https://raw.githubusercontent.com/zikodroid/Robotic-Arm/main/Media/Base_Getriebe_2 - Kopie.jpg)
 
 ---
 
@@ -28,6 +29,7 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 ## 📂 Repository Structure
 * `/Media` - Contains short demonstration videos (.mp4), and hardware test footage.
 * `/Models` - Includes CAD renders, STEP/STL files, and 3D printing configurations.
+* Download the Files here: **[Main Repository](https://github.com/zikodroid/Robotic-Arm.githttps://github.com/zikodroid/Robotic-Arm.git)
 
 ---
 
