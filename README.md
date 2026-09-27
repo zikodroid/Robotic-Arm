@@ -11,6 +11,8 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 * **Core Technologies:** Autodesk Inventor, 3D Printing (PLA/PETG), ESP32 Microcontroller, C++, and custom wireless communication.
 
 ---
+![CAD Render Design](https://github.com/zikodroid/Robotic-Arm/blob/main/Media/Base_Getriebe.png)
+---
 
 ## 📂 Repository Structure
 * `/Media` - Contains short demonstration videos (.mp4), and hardware test footage.
