@@ -41,7 +41,7 @@ An ambitious Mechanical Engineer with a strong passion for Robotics & transformi
 ## 🎥 Assembly & Test Videos
 [![Assembly Video](https://img.youtube.com/vi/WgQ9TpypU44/hqdefault.jpg)](https://www.youtube.com/watch?v=WgQ9TpypU44)
 [![Assembly Video](https://img.youtube.com/vi/2EUBBXBF5gc/hqdefault.jpg)](https://www.youtube.com/shorts/2EUBBXBF5gc)
-[![Assembly Video](https://img.youtube.com/vi/UMWc8HyBJto/hqdefault.jpg)](https://www.youtube.com/shorts/2EUBBXBF5gc)
+[![Assembly Video](https://img.youtube.com/vi/UMWc8HyBJto/hqdefault.jpg)](https://www.youtube.com/shorts/UMWc8HyBJto)
 
 ---
 
