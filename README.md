@@ -18,7 +18,7 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
     <td align="center" style="padding: 10px; border: none;">
       <img src="https://zikodroid.github.io/Robotic-Arm/Media/Base_Getriebe_2.png" alt="CAD Render Design" width="400">
       <br>
-      <em>Figure 1: Detailed CAD Design</em>
+      <em>Figure 1: CAD Design</em>
     </td>
     <td align="center" style="padding: 10px; border: none;">
       <img src="https://zikodroid.github.io/Robotic-Arm/Media/Screenshot 2026-09-27 151355.png" alt="Real Hardware" width="400">
