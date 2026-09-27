@@ -5,6 +5,14 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 
 ---
 
+About Me:
+An ambitious Mechanical Engineer with a strong passion for Robotics & transforming complex Mechatronic concepts into precise, high-performance real-world applications. Experienced in CAD design, 3D printing optimization, Programming and embedded systems development. Dedicated to building innovative, intelligent engineering solutions and smart mechatronic systems.
+
+📧 Contact: [z.moustafa.205@gmail.com]
+             [zikodroid@gmail.com]
+
+---
+
 ## 🚀 Project Overview & Current Status
 * **Current Status:** 🚧 Under Development (Phase 1 Complete: Rotary Base & Actuation).
 * **Objective:** Design, 3D print, and program a high-precision, low-cost mechatronic robotic arm with Automation & wireless control.
@@ -51,6 +59,7 @@ Here are the core components used to build the Phase 1 rotary base and control s
 * **Stepper Motor:** [NEMA 17 Stepper Motor](https://amzn.eu/d/09fnmTch)
 * **Magnetic Encoder:** [AS5600 Magnetic Encoder](https://amzn.eu/d/068zWkTg)
 * **Controller:** [Xbox Wireless Controller](https://amzn.eu/d/0i4OwxBr)
+* **Stepper Motor Driver:** [Stepper Motor Driver](https://amzn.eu/d/00BdDssQ)
 * **Ball Bearings 20x27x4:** [Ball Bearings 20x27x4](https://amzn.eu/d/06Etchw0)
 * **Ball Bearings 10x19x5:** [Ball Bearings 10x19x5](https://amzn.eu/d/0ethZim4)
 * **Brass Inserts M3:** [Brass Inserts M3](https://amzn.eu/d/01GirjP7)
