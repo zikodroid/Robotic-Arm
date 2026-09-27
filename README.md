@@ -48,7 +48,7 @@ An ambitious Mechanical Engineer with a strong passion for Robotics & transformi
 ## 📂 Repository Structure
 * `/Media` - Contains short demonstration videos (.mp4), and hardware test footage.
 * `/Models` - Includes CAD renders, STEP/STL files, and 3D printing configurations.
-* Download the Files here: **[Main Repository](https://github.com/zikodroid/Robotic-Arm.githttps://github.com/zikodroid/Robotic-Arm.git)
+* Download the Files here: **[Main Repository](https://github.com/zikodroid/Robotic-Arm.git)
 
 ---
 
