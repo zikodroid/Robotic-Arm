@@ -13,9 +13,21 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 
 ---
 
-<img src="https://zikodroid.github.io/Robotic-Arm/Media/Base_Getriebe_2.png" alt="CAD Render Design" width="600">
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://zikodroid.github.io/Robotic-Arm/Media/Base_Getriebe_2" alt="CAD Render Design" width="400">
+      <br>
+      <em>Figure 1: Detailed CAD Design</em>
+    </td>
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://zikodroid.github.io/Robotic-Arm/Media/Screenshot 2026-09-27 151355.png" alt="Real Hardware" width="400">
+      <br>
+      <em>Figure 2: Assembled Prototype</em>
+    </td>
+  </tr>
+</table>
 
-<img src="https://zikodroid.github.io/Robotic-Arm/Media/Screenshot 2026-09-27 151355.png" alt="Real Photo" width="600">
 ---
 
 ## 🎥 Assembly & Test Videos
