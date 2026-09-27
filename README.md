@@ -11,23 +11,23 @@ Welcome to my small Workshop! here i share everything about my custom-designed m
 * **Core Technologies:** Autodesk Inventor, 3D Printing (PLA/PETG), ESP32 Microcontroller, C++, and custom wireless communication.
 
 ---
+
 ![CAD Render Design](https://github.com/zikodroid/Robotic-Arm/blob/main/Media/Base_Getriebe_2%20-%20Kopie.png)
 ![Real Photo](https://github.com/zikodroid/Robotic-Arm/blob/main/Media/Base_Getriebe_1.png)
----
-
-## 📂 Repository Structure
-* `/Media` - Contains short demonstration videos (.mp4), and hardware test footage.
-* `/Models` - Includes CAD renders, STEP/STL files, and 3D printing configurations.
 
 ---
 
 ## 🎥 Assembly & Test Videos
 [![Assembly Video](https://img.youtube.com/vi/WgQ9TpypU44/hqdefault.jpg)](https://www.youtube.com/watch?v=WgQ9TpypU44)
 [![Assembly Video](https://img.youtube.com/vi/2EUBBXBF5gc/hqdefault.jpg)](https://www.youtube.com/shorts/2EUBBXBF5gc)
+[![Assembly Video](https://img.youtube.com/vi/UMWc8HyBJto/hqdefault.jpg)](https://www.youtube.com/shorts/2EUBBXBF5gc)
+
 ---
-## 💻 Source Code & Library Dependency
-* **[Operating Code](https://github.com/zikodroid/controlStepperWithXbox.git):** Contains the core C++ operational code for the ESP32 controlling the rotary base.
-* **[Custom XBOX-ESP32 Link Library](https://github.com/zikodroid/ESP-XBOX-link.git):** Contains the dedicated custom-built library to connect the XBOX Controller with ESP32 (Mandatory with the Previous Code)
+
+## 📂 Repository Structure
+* `/Media` - Contains short demonstration videos (.mp4), and hardware test footage.
+* `/Models` - Includes CAD renders, STEP/STL files, and 3D printing configurations.
+
 ---
 
 ## 🛒 Hardware Components & Bill of Materials (BOM)
@@ -41,6 +41,12 @@ Here are the core components used to build the Phase 1 rotary base and control s
 * **Ball Bearings 10x19x5:** [Ball Bearings 10x19x5](https://amzn.eu/d/0ethZim4)
 * **Brass Inserts M3:** [Brass Inserts M3](https://amzn.eu/d/01GirjP7)
 * **M3 Screws (Example):** [M3 Screws](https://amzn.eu/d/00yubzFb)
+
+---
+
+## 💻 Source Code & Library Dependency
+* **[Operating Code](https://github.com/zikodroid/controlStepperWithXbox.git):** Contains the core C++ operational code for the ESP32 controlling the rotary base.
+* **[Custom XBOX-ESP32 Link Library](https://github.com/zikodroid/ESP-XBOX-link.git):** Contains the dedicated custom-built library to connect the XBOX Controller with ESP32 (Mandatory with the Previous Code)
 
 ---
 
