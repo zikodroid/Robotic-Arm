@@ -25,7 +25,7 @@ Check out the full 6-minute assembly and live demonstration video on YouTube:
 ---
 ## 💻 Source Code & Library Dependency
 * **[Operating Code](https://github.com/zikodroid/controlStepperWithXbox.git):** Contains the core C++ operational code for the ESP32 controlling the rotary base.
-* **[Custom XBOX-ESP32 Link Library](https://github.com/zikodroid/ESP-XBOX-link.gitا):** Contains the dedicated custom-built library to connect the XBOX Controller with ESP32 (Mandatory with the Previous Code)
+* **[Custom XBOX-ESP32 Link Library](https://github.com/zikodroid/ESP-XBOX-link.git):** Contains the dedicated custom-built library to connect the XBOX Controller with ESP32 (Mandatory with the Previous Code)
 ---
 
 ## 🛒 Hardware Components & Bill of Materials (BOM)
