@@ -1,4 +1,5 @@
-# 🦾 2-DOF Mechatronic Robotic Arm - Rotary Base (Phase 1)
+# Mechatronic Robotic Arm by Z.Moustafa 🦾
+# Rotary Base (Phase 1)
 
 Welcome to my small Workshop! here i share everything about my custom-designed mechatronic robotic arm project. **This project is currently under active development.** The current release represents **Phase 1**, focusing on the precision rotary base and mechanical gear integration, achieving an exceptional movement accuracy of **99%**.
 
